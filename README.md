@@ -1,6 +1,6 @@
 # ScratchJr
 
-All ScratchJr projects are located in /Projects path, where each .sjr file is a single ScratchJr project.
+All ScratchJr projects are located in ./Projects path, where each .sjr file is a single ScratchJr project.
 
 1) If you download a ScratchJr project from your tablet (Android or iOS), then you only have to select to open this file with the ScratchJr application.
 
